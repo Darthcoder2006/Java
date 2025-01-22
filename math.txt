@@ -1,0 +1,12 @@
+Advantages of Average (Mean)
+Easy to calculate and understand.
+Takes all data points into account, providing a comprehensive measure.
+Useful for further statistical analysis.
+Provides a central value that represents the dataset.
+Widely used in various fields such as economics, business, and engineering.
+Disadvantages of Average (Mean)
+Affected by extreme values (outliers), which can skew the result.
+Not suitable for skewed distributions.
+Cannot be used for categorical data.
+May not accurately represent the central tendency if the data is not normally distributed.
+Requires numerical data, limiting its applicability.
