@@ -2,8 +2,8 @@ package labsheet;
 
 public class Lab6 {
     
-}
-class BankAccount {
+ 
+static class BankAccount {
     private double balance;
 
     public BankAccount(double initialBalance) {
@@ -37,4 +37,4 @@ public static void main(String[] args) {
     account.withdraw(600.0);
     account.deposit(200.0);
     account.withdraw(600.0);
-}
+}}
