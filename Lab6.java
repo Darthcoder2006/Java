@@ -1,4 +1,3 @@
-package labsheet;
 import java.util.Scanner;
 
 public class Lab6 {
