@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Lab7 {
     public static void main(String[] args) {
         Scanner scanner = new java.util.Scanner(System.in);
-        System.out.print("Enter the number of units consumed: ");
+        System.out.println("Enter the number of units consumed: ");
         int units = scanner.nextInt();
         scanner.close();
 
